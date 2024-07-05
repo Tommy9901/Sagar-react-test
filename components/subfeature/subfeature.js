@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function Subfeature(){
     return(
-        <div className="flex-col py-[96px] px-[80px]">
+        <div className="flex-col py-[96px] px-[80px] bg-gray-50">
             <div className="flex justify-center">
             <div className="flex items-center justify-center mb-12 w-[105px] h-[28px] bg-gray-200 rounded-lg">About me</div>
             </div>

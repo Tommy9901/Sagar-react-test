@@ -67,14 +67,16 @@ export function Header() {
                 <div><FaFigma className="w-[16px] h-[20px]"/></div>
             </div>
       </div>
-      <div className="flex w-[440px] h-[360px] relative">
+      <div className=" w-[440px] h-[360px] relative">
+            <>
             <Image
             className="shadow-2xl absolute z-10 left-[110px]"
             src="/images/profile.png"
             width={280}
             height={320}
-            />
+            />  
             <div className="bg-gray-200 w-[280px] h-[320px] absolute bottom-2 right-[10px]"></div>
+            </>
       </div>
     </div>
   );
