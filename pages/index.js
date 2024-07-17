@@ -1,7 +1,13 @@
+
+import { Experience } from "@/components/Skills/Experience";
+import { Skill } from "@/components/Skills/Skill";
+
+import { Work } from "@/components/Works/work";
 import { Nav } from "@/components/header/header-nav";
 import { Header } from "@/components/header/header-nav";
 import { Subfeature } from "@/components/subfeature/subfeature";
-import { Experience, Work } from "@/components/work/work";
+
+
 
 
 export default function Home() {
@@ -12,8 +18,11 @@ export default function Home() {
     <Nav/>
     <Header />
     <Subfeature />
-    <Work />
+    <Skill />
     <Experience />
+
+    <Work />
+
 
       </div>
     </main>

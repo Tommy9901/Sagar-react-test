@@ -40,7 +40,7 @@ export function Nav() {
 
 export function Header() {
   return (
-    <div className="flex py-[96px] gap-[48px] px-[80px]">
+    <div className="flex py-[96px] gap-[48px] px-[80px] ">
       <div className="flex-col w-[768px] h-[360px]">
             <div className="text-[60px] font-[700] mb-[8px]">Hi, I'm Sagar</div>
             <div className="mb-[48px] font-[Inter] text-base">
