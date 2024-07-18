@@ -1,8 +1,7 @@
 
 import { Experience } from "@/components/Skills/Experience";
 import { Skill } from "@/components/Skills/Skill";
-
-import { Work } from "@/components/Works/work";
+import { Work } from "@/components/Works/Work";
 import { Nav } from "@/components/header/header-nav";
 import { Header } from "@/components/header/header-nav";
 import { Subfeature } from "@/components/subfeature/subfeature";
