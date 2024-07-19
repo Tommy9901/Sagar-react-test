@@ -3,37 +3,7 @@
 export function Skill(){
     return(
         <div className="flex flex-col gap-[48px] py-[96px] px-[80px]">
-            <div>
-                <div className="flex items-center justify-center text-center mb-[16px]">
-                    <div className="bg-gray-200 w-[75px] h-[28px] rounded-lg">Skill</div>
-                </div>
-                <div className="text-xl font-normal text-center text-gray-600">The skills, tools and technologies I am really good at:</div>
-            </div>
-            <div className="flex flex-col gap-[48px] ">
-                <div className="flex justify-between">
-                    <div><img src="/images/Tech.png" alt="tech" /></div>
-                    <div><img src="/images/Tech.png" alt="tech" /></div>
-                    <div><img src="/images/Tech.png" alt="tech" /></div>
-                    <div><img src="/images/Tech.png" alt="tech" /></div>
-                    <div><img src="/images/Tech.png" alt="tech" /></div>
-                    <div><img src="/images/Tech.png" alt="tech" /></div>
-                    <div><img src="/images/Tech.png" alt="tech" /></div>
-                    <div><img src="/images/Tech.png" alt="tech" /></div>
-                </div>
-                
-                <div>
-                    <div className="flex justify-between">
-                        <div><img src="/images/Tech.png" alt="tech" /></div>
-                        <div><img src="/images/Tech.png" alt="tech" /></div>
-                        <div><img src="/images/Tech.png" alt="tech" /></div>
-                        <div><img src="/images/Tech.png" alt="tech" /></div>
-                        <div><img src="/images/Tech.png" alt="tech" /></div>
-                        <div><img src="/images/Tech.png" alt="tech" /></div>
-                        <div><img src="/images/Tech.png" alt="tech" /></div>
-                        <div><img src="/images/Tech.png" alt="tech" /></div>
-                    </div>
-                </div>
-            </div>
+            aa
         </div>
     );
 }

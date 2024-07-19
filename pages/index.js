@@ -20,7 +20,7 @@ export default function Home() {
     <Skill />
     <Experience />
 
-    <Work />
+    {/* <Work /> */}
 
 
       </div>
